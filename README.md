@@ -1,6 +1,6 @@
 ## ME, Myself & I
 
-An experienced Marketing & Management professional, I have over 5 years of experience driving strategic initiatives across Product understanding, Business Strategy and Business Analysis.
+An experienced Business Intelligence & Management professional, I have over 5 years of experience driving strategic initiatives across Product understanding, Business Strategy and Business Analysis.
 
 My main objective is to contribute to the growth of an organisation with my professional expertise in Product Development and develop myself further in the process. One of my key achievements was having initiated 360 deg program in Sales & Marketing department by creating training manuals, presentations and audio-visual tools; trained numerous associates on sales process, lead generation, sales strategies, and channel management.
 
