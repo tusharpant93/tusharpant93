@@ -10,7 +10,7 @@ I am currently pursuing Master of Science in Business Analytics to prepare mysel
 
 ### 🐍 Python  (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn)
 
-### 📊   R     (Tidyverse: dplyr, ggplot2, tidyr, readr, broom)
+### 📊   R       (Tidyverse: dplyr, ggplot2, tidyr, readr, broom)
 
 ### 🤖   SQL   (creating scripts, views, procedures when manipulate data from databases)
 
