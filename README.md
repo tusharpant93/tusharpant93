@@ -1,4 +1,4 @@
-## ME
+## ME, Myself & I
 
 An experienced Marketing & Management professional, I have over 5 years of experience driving strategic initiatives across Product understanding, Business Strategy and Business Analysis.
 
@@ -19,5 +19,8 @@ I am currently pursuing Master of Science in Business Analytics to prepare mysel
 Feel free to connect with me on Github or LinkedIn to learn more about me.
 
 I'd be more than happy to have a conversation! share my experiences & learn from your stories.
+
+
+Stat Card
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharpant93)](https://github.com/anuraghazra/github-readme-stats)
