@@ -16,7 +16,7 @@ I am currently pursuing Master of Science in Business Analytics to prepare mysel
 
 ### 👨🏻‍💻 Tableau (Creating visual representations that effectively communicate information to the ordinary reader)
 
-Feel free to connect with me on Github or LinkedIn to learn more about me.
+Feel free to connect with me on [Github](https://github.com/tusharpant93) or [LinkedIn](https://www.linkedin.com/in/tushar-pant/) to know me more.
 
 I'd be more than happy to have a conversation! share my experiences & learn from your stories.
 
