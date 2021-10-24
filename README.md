@@ -5,6 +5,7 @@ My main objective is to contribute to the growth of an organisation with my prof
 I am currently pursuing Master of Science in Business Analytics to prepare myself for the challenges of the future & fulfilling my passion for Innovation throughout my life.
 
 My Top Skills
+
 🐍Python(NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn)
 
 📊R(Tidyverse: dplyr, ggplot2, tidyr, readr, broom, reshape2)
