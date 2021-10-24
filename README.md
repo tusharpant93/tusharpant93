@@ -18,6 +18,9 @@ I am currently pursuing Master of Science in Business Analytics to prepare mysel
 
 Feel free to connect with me on [Github](https://github.com/tusharpant93) or [LinkedIn](https://www.linkedin.com/in/tushar-pant/) to know me more.
 
+Also checkout my [Youtube](https://www.youtube.com/channel/UCG_Uw2cQxcDSFP7GXWGL00w) channel, for my take on explaining difficult analysis & methods which are relevant to current happenings !!! 
+## LIKE, SHARE & SUBSCRIBE 
+
 I'd be more than happy to have a conversation! share my experiences & learn from your stories.
 
 
