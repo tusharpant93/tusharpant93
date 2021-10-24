@@ -8,13 +8,13 @@ I am currently pursuing Master of Science in Business Analytics to prepare mysel
 
 ## My Top Skills
 
-🐍Python(NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn)
+### 🐍 Python  (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn)
 
-📊R(Tidyverse: dplyr, ggplot2, tidyr, readr, broom, reshape2)
+### 📊   R     (Tidyverse: dplyr, ggplot2, tidyr, readr, broom)
 
-🤖SQL(creating scripts, views, procedures when manipulate data from databases)
+### 🤖   SQL   (creating scripts, views, procedures when manipulate data from databases)
 
-👨🏻‍💻Tableau(Creating visual representations that effectively communicate information to the ordinary reader)
+### 👨🏻‍💻 Tableau (Creating visual representations that effectively communicate information to the ordinary reader)
 
 Feel free to connect with me on Github or LinkedIn to learn more about me.
 
