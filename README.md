@@ -6,7 +6,7 @@ My main objective is to contribute to the growth of an organisation with my prof
 
 I recently graduated Master of Science in Business Analytics & have also pursued Master's of Business Administration (Marketing, Business Intellligence & Advanced Analytics)to prepare myself for the challenges of the future & fulfilling my passion for Innovation throughout my life.
 
-I am currently serving as a [Data Scientist/Statsician](https://www.linkedin.com/in/tushar-pant/) @ [SRI](https://srinsights.com/).
+Currently, I am a [Data Scientist/Statistician](https://www.linkedin.com/in/tushar-pant/) @ [SRI](https://srinsights.com/).
 
 ## My Top Skills
 
