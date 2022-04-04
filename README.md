@@ -29,4 +29,5 @@ I'd be more than happy to have a conversation! share my experiences & learn from
 
 ## Stat Card
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharpant93&show_icons=true&theme=nightowl)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tusharpant93&show_icons=true&count_private=true&theme=nightowl)
+
