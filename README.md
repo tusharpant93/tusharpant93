@@ -26,6 +26,11 @@ Also checkout my [Youtube](https://www.youtube.com/channel/UCG_Uw2cQxcDSFP7GXWGL
 
 I'd be more than happy to have a conversation! share my experiences & learn from your stories.
 
+![image](https://user-images.githubusercontent.com/72465037/163483566-6171e3fa-c830-4c86-bd89-27f51ee59d00.png)
+Experienced in top-end supervising for wine serving, collaborating with winemakers to upgrade selections, and providing wine recommendations to guests from different social gatherings.
+
+![image](https://user-images.githubusercontent.com/72465037/163483704-a2e948e4-f3ec-48e4-9f06-8c5cb69b0670.png)
+
 
 ## Stat Card
 
