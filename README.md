@@ -27,6 +27,8 @@ Also checkout my [Youtube](https://www.youtube.com/channel/UCG_Uw2cQxcDSFP7GXWGL
 I'd be more than happy to have a conversation! share my experiences & learn from your stories.
 
 
+## Hidden Talents
+
 ![image](https://user-images.githubusercontent.com/72465037/163484906-92c9a487-a520-40e5-84fa-006a3cd8e2ea.png)
 
 Experienced in top-end supervising for wine serving, collaborating with winemakers to upgrade selections, and providing wine recommendations to guests from different social gatherings.
