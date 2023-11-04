@@ -4,7 +4,7 @@ An experienced Business Intelligence & Management professional, I have over 8 ye
 
 My main objective is to contribute to the growth of an organisation with my professional expertise in Product Development & Product Growth Cycle  and develop myself further in the process. 
 
-I recently graduated Master of Science in Business Analytics & have also pursued Master's of Business Administration (Marketing, Business Intellligence & Advanced Analytics)to prepare myself for the challenges of the future & fulfilling my passion for Innovation throughout my life.
+I graduated with a Master of Science in Business Analytics & have also pursued Master's of Business Administration (Marketing, Business Intellligence & Advanced Analytics)to prepare myself for the challenges of the future & fulfilling my passion for Innovation throughout my life.
 
 I am a [Data Scientist/Statistician](https://www.linkedin.com/in/tushar-pant/) .
 
