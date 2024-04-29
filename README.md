@@ -16,7 +16,7 @@ I am a [Data Scientist/Statistician](https://www.linkedin.com/in/tushar-pant/) .
 
 ### 🤖 SQL   (creating scripts, views, procedures when manipulate data from databases)
 
-### 👨🏻‍💻 Tableau (Creating visual representations that effectively communicate information to the ordinary reader)
+### 👨🏻‍💻 Tableau (Creating visual representations that effectively communicate information)
 
 ### 🧬 Simulation (SimPy, NEST, Elmer, Simio, Visio)
 
