@@ -18,7 +18,7 @@ I am a [Data Scientist/Statistician](https://www.linkedin.com/in/tushar-pant/) .
 
 ### 👨🏻‍💻 Tableau (Creating visual representations that effectively communicate information to the ordinary reader)
 
-### 🧬 Simulation (SimPY, NEST, Elmer)
+### 🧬 Simulation (SimPY, NEST, Elmer, Simio, Visio)
 
 ### 🦾 Robotic Process Automation Tools (UIPath, AWS Lambda, SAP, Appian)
 
