@@ -14,9 +14,13 @@ I am a [Data Scientist/Statistician](https://www.linkedin.com/in/tushar-pant/) .
 
 ### 📊   R       (Tidyverse: dplyr, ggplot2, tidyr, readr, broom)
 
-### 🤖   SQL   (creating scripts, views, procedures when manipulate data from databases)
+### 🤖 SQL   (creating scripts, views, procedures when manipulate data from databases)
 
 ### 👨🏻‍💻 Tableau (Creating visual representations that effectively communicate information to the ordinary reader)
+
+### 🧬 Simulation (SimPY, NEST, Elmer)
+
+### 🦾 Robotic Process Automation Tools (UIPath, AWS Lambda, SAP, Appian)
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tushar-pant/) to know me more.
 
